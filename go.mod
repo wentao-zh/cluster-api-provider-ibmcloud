@@ -11,6 +11,7 @@ require (
 	github.com/onsi/gomega v1.10.1
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.9.1
+	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7 // indirect
 	k8s.io/api v0.17.9
 	k8s.io/apimachinery v0.17.9
 	k8s.io/client-go v0.17.9
